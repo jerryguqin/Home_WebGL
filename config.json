@@ -21,22 +21,22 @@
 		},
 		"ul": {
 			"first": {
-				"href": "blog/",
-				"icon": "bokeyuan",
-				"text": "Blog"
+				"href": "https://nav.0830.tech",
+				"icon": "xiaolian",
+				"text": "Navi"
 			},
 			"second": {
-				"href": "about/",
-				"icon": "xiaolian",
-				"text": "About"
+				"href": "https://url.0830.tech",
+				"icon": "bokeyuan",
+				"text": "URL"
 			},
 			"third": {
-				"href": "mailto:simon@tomotoes.com",
+				"href": "mailto:jerryguqin@126.com",
 				"icon": "email",
 				"text": "Email"
 			},
 			"fourth": {
-				"href": "https://github.com/tomotoes",
+				"href": "https://github.com/jerryguqin",
 				"icon": "github",
 				"text": "Github"
 			}
